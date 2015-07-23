@@ -1,6 +1,6 @@
 <?php
 /*
- * Plugin Name: Kalimah Widgets - Weather (lite)
+ * Plugin Name: Kalimah Weather (lite)
  * Plugin URI: http://www.kalimah-apps.com
  * Description: This widget allows you to easily add super clean weather widget to your site. Create a weather, select your city, choose the options and customize the look in a few clicks. The weather data is provided for free by http://openweathermap.org
  * Version: 1.0
