@@ -1,0 +1,235 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-19 16:18+1000\n"
+"PO-Revision-Date: 2015-07-19 16:30+1000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: kalimah-weather.php:81
+msgid "North"
+msgstr "شمال"
+
+#: kalimah-weather.php:82
+msgid "NNE"
+msgstr "شمال شمال-شرقي"
+
+#: kalimah-weather.php:83
+msgid "North-East"
+msgstr "شمال شرقي"
+
+#: kalimah-weather.php:84
+msgid "ENE"
+msgstr "شرق شمال-شرقي"
+
+#: kalimah-weather.php:85
+msgid "East"
+msgstr "شرق"
+
+#: kalimah-weather.php:86
+msgid "ESE"
+msgstr "شرق غرب-شرقي"
+
+#: kalimah-weather.php:87
+msgid "South-East"
+msgstr "غرب-شرقي"
+
+#: kalimah-weather.php:88
+msgid "SSE"
+msgstr "غرب غرب-شرقي"
+
+#: kalimah-weather.php:89
+msgid "South"
+msgstr "جنوب"
+
+#: kalimah-weather.php:90
+msgid "SSW"
+msgstr "جنوب جنوب-غربي"
+
+#: kalimah-weather.php:91
+msgid "South-West"
+msgstr "جنوب-غربي"
+
+#: kalimah-weather.php:92
+msgid "WSW"
+msgstr "غربي جنوب-غربي"
+
+#: kalimah-weather.php:93
+msgid "West"
+msgstr "غربي"
+
+#: kalimah-weather.php:94
+msgid "WNW"
+msgstr "غربي شمال-غربي"
+
+#: kalimah-weather.php:95
+msgid "North-West"
+msgstr "شمال-غربي"
+
+#: kalimah-weather.php:96
+msgid "NNW"
+msgstr "شمال شمال-غربي"
+
+#: kalimah-weather.php:144
+msgid "Humidity Level"
+msgstr "نسبة الرطوبة"
+
+#: kalimah-weather.php:147
+msgid "Wind Speed"
+msgstr "سرعة الرياح"
+
+#: kalimah-weather.php:150
+msgid "Highest/Lowest Temperature"
+msgstr "أعلى/أدنى درجة حرارة"
+
+#: kalimah-weather.php:153
+msgid "Wind Direction"
+msgstr "جهة الرياح"
+
+#: kalimah-weather.php:352
+msgid "Options"
+msgstr "الخيارات"
+
+#: kalimah-weather.php:356
+msgid "Title"
+msgstr "العنوان"
+
+#: kalimah-weather.php:357
+msgid "Optional"
+msgstr "اختياري"
+
+#: kalimah-weather.php:363
+msgid "City location"
+msgstr "مكان المدينة"
+
+#: kalimah-weather.php:368
+msgid "IP address"
+msgstr "عنوان IP"
+
+#: kalimah-weather.php:368
+msgid "Manual"
+msgstr "يدوي"
+
+#: kalimah-weather.php:371
+msgid "City"
+msgstr "المدينة"
+
+#: kalimah-weather.php:383
+msgid "Show Date"
+msgstr "أظهر التاريخ"
+
+#: kalimah-weather.php:390
+msgid "Unites"
+msgstr "الوحدة"
+
+#: kalimah-weather.php:395
+msgid "F"
+msgstr "فهرنهايت"
+
+#: kalimah-weather.php:395
+msgid "C"
+msgstr "سيلسيوس (مئوية)"
+
+#: kalimah-weather.php:398
+msgid "Show Wind"
+msgstr "أظهر الرياح"
+
+#: kalimah-weather.php:404
+msgid "Show Humidity"
+msgstr "أظهر نسبة الرطوبة"
+
+#: kalimah-weather.php:410
+msgid "Show Direction"
+msgstr "أظهر الاتجاه"
+
+#: kalimah-weather.php:416
+msgid "Show Highest/Lowest Temperature"
+msgstr "أظهر أعلى/أدنى درجة حرارة"
+
+#: kalimah-weather.php:423
+msgid "Show Animation"
+msgstr "أظهر الحركات"
+
+#: kalimah-weather.php:431
+msgid "Text Color"
+msgstr "لون النص"
+
+#: kalimah-weather.php:439
+msgid "Background Type"
+msgstr "نوع الخلفية"
+
+#: kalimah-weather.php:456
+msgid "Pattern"
+msgstr "نمط"
+
+#: kalimah-weather.php:477
+msgid "Custom Background"
+msgstr "مخصصة"
+
+#: kalimah-weather.php:492
+msgid "Background Color"
+msgstr "لون الخلفية"
+
+#: kalimah-weather.php:503
+msgid "Forecast Options"
+msgstr "الجو للأيام القادمة"
+
+#: kalimah-weather.php:507
+msgid "Show Forecast"
+msgstr "أظهر الجو اللاحق"
+
+#: kalimah-weather.php:515
+msgid "Forecast Days"
+msgstr "عدد أيام الجو"
+
+#: kalimah-weather.php:521
+msgid "Days"
+msgstr "يوم/أيام"
+
+#: kalimah-weather.php:525
+msgid "Forecast Display"
+msgstr "طريقة عرض الجو"
+
+#: kalimah-weather.php:530
+msgid "Condensed View"
+msgstr "مختصر"
+
+#: kalimah-weather.php:530
+msgid "Extended View"
+msgstr "ممتد"
+
+#: kalimah-weather.php:537
+msgid "Show Day"
+msgstr "أظهر اليوم"
+
+#: kalimah-weather.php:543
+msgid "Show Icon"
+msgstr "أظهر أيقونة الجو"
+
+#: kalimah-weather.php:550
+msgid "Show High/Low Temp"
+msgstr "أظهر أعلى/أدنة درجة حرارة"
+
+#: kalimah-weather.php:565
+msgid "Cache"
+msgstr "حفظ درجات الجو"
+
+#: kalimah-weather.php:569
+msgid "Enable Cache"
+msgstr "تفعيل الحفظ"
+
+#: kalimah-weather.php:577
+msgid "Update Cache Every"
+msgstr "تحديث الحفظ كل: "
