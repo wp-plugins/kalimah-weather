@@ -1,8 +1,8 @@
 === Plugin Name ===
 Contributors: khr2003
-Tags: weather,kalimah
-Requires at least: 3.0.1
-Tested up to: 4.1
+Tags: weather,kalimah,widget
+Requires at least: 3.0
+Tested up to: 4.2
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -12,6 +12,9 @@ Display weather widget in beautiful way
 == Description ==
 This widget allows you to easily add super clean weather widget to your site. Create a weather, select your city, choose the options and customize the look in a few clicks. The weather data is provided for free by http://openweathermap.org
 
+Get the Pro Version from [Kalimah Apps](http://kalimah-apps.diy-cms.com/?page_id=22 "Kalimah Apps")
+
+
 App icon by: [Hesam Khodabakhshi](hesam.weebly.com "Hesam Khodabakhshi")
 
 == Installation ==
@@ -20,9 +23,11 @@ App icon by: [Hesam Khodabakhshi](hesam.weebly.com "Hesam Khodabakhshi")
 3. Access the plugins through widget sections under appearnce section
 
 == Screenshots ==
-
-1. Frontend.
-2. Backend.
+1. Weather with image background (Pro)
+2. Weather wtih minimal settings
+3. Weather with extended view of the forecast (Pro)
+4. Cache Settings
+5. City Settings
 
 == Changelog ==
 = 1.0 =
