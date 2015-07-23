@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Kalimah Weather ===
 Contributors: khr2003
 Tags: weather,kalimah,widget
 Requires at least: 3.0
