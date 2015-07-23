@@ -1,0 +1,19 @@
+.kalimah-widget-section-start .form-title, input[type="range"], .kalimah-widget-radio input[type="radio"] + span
+{
+	float: right !important;
+}
+
+
+.kalimah-widget-radio label:last-of-type span {
+    border-bottom-left-radius: 5px !important;
+    border-top-left-radius: 5px !important;
+	border-bottom-right-radius: 0px !important;
+    border-top-right-radius: 0px !important;
+}
+
+.kalimah-widget-radio label:first-of-type span {
+    border-bottom-right-radius: 5px !important;
+    border-top-right-radius: 5px !important;
+	border-bottom-left-radius: 0px !important;
+    border-top-left-radius: 0px !important;
+}
