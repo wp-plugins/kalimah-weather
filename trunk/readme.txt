@@ -15,9 +15,9 @@ This widget allows you to easily add super clean weather widget to your site. Cr
 App icon by: [Hesam Khodabakhshi](hesam.weebly.com "Hesam Khodabakhshi")
 
 == Installation ==
-1. Upload plguin folder to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Access the plugin through plugin managment in Wordpress dashboard under Posts scetions
+1. Upload plguin folders to the `/wp-content/plugins/` directory
+2. Activate both plugins through the 'Plugins' menu in WordPress
+3. Access the plugins through widget sections under appearnce section
 
 == Screenshots ==
 
