@@ -10,6 +10,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Display weather widget in beautiful way
 
 == Description ==
+This plguin requires Kalimah Apps - Widgets to work.
+
 This widget allows you to easily add super clean weather widget to your site. Create a weather, select your city, choose the options and customize the look in a few clicks. The weather data is provided for free by http://openweathermap.org
 
 Get the Pro Version from [Kalimah Apps](http://kalimah-apps.diy-cms.com/?page_id=22 "Kalimah Apps")
