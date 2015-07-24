@@ -1,6 +1,6 @@
 <?php
 /*
- * Plugin Name: Kalimah Weather (lite)
+ * Plugin Name: Kalimah Widgets - Weather (lite)
  * Plugin URI: http://www.kalimah-apps.com
  * Description: This widget allows you to easily add super clean weather widget to your site. Create a weather, select your city, choose the options and customize the look in a few clicks. The weather data is provided for free by http://openweathermap.org
  * Version: 1.0
@@ -8,7 +8,7 @@
  * Text Domain: KALIMAHAPPSWIDGETS
  * Author URI: http://www.kalimah-apps.com
  */
- 
+
 class kalimah_weather_light extends WP_Widget 
 {
 	var $domain = 'kalimahwidgets';
@@ -19,6 +19,8 @@ class kalimah_weather_light extends WP_Widget
 		$this->WP_Widget( 'kalimah_weather_light', 'Kalimah: Weather (lite)', $widget_ops, $control_ops );
 		
 		add_action('init', array($this, 'loadTextDomain'));
+		add_action('admin_init', array($this, 'check_kalimah_widgets_plugin'));
+		
 	}
 
 	public function widget( $args, $instance ) {
@@ -496,7 +498,23 @@ function loadTextDomain() {
     } else {
         $l10n[$domain] = $mo;
     }
+}	
+
+function check_kalimah_widgets_plugin() {
+  /**
+ * Detect plugin. For use in Admin area only.
+ */
+if ( !is_plugin_active( 'KalimahWidgets/kalimahwidgets.php' ) ) {
+  add_action( 'admin_notices', array($this, 'my_admin_error_notice' ));
 }
+}
+
+function my_admin_error_notice() {
+	$class = "error";
+	$message = "Kalimah Apps - Widget is not installed or activated. Please download it from <a href='https://downloads.wordpress.org/plugin/kalimah-apps-widgets.zip'>Kalimah Apps Widgets</a> and activate";
+        echo"<div class=\"$class\"> <p>$message</p></div>"; 
+}
+
 }
 
 function kalimah_weather_light() {
