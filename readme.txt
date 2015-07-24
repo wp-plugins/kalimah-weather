@@ -34,3 +34,8 @@ App icon by: [Hesam Khodabakhshi](hesam.weebly.com "Hesam Khodabakhshi")
 == Changelog ==
 = 1.0 =
 * First release.
+
+
+== Upgrade Notice ==
+= 1.0.1 =
+Minor changes to plugin files
