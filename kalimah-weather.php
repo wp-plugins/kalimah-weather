@@ -3,7 +3,7 @@
  * Plugin Name: Kalimah Widgets - Weather (lite)
  * Plugin URI: http://www.kalimah-apps.com
  * Description: This widget allows you to easily add super clean weather widget to your site. Create a weather, select your city, choose the options and customize the look in a few clicks. The weather data is provided for free by http://openweathermap.org
- * Version: 1.0
+ * Version: 1.0.1
  * Author: Kalimah Apps
  * Text Domain: KALIMAHAPPSWIDGETS
  * Author URI: http://www.kalimah-apps.com
@@ -506,12 +506,21 @@ function check_kalimah_widgets_plugin() {
  */
 if ( !is_plugin_active( 'KalimahWidgets/kalimahwidgets.php' ) ) {
   add_action( 'admin_notices', array($this, 'my_admin_error_notice' ));
+}else
+{
+	 add_action( 'admin_notices', array($this, 'buy_full_version' ));
 }
 }
 
 function my_admin_error_notice() {
 	$class = "error";
 	$message = "Kalimah Apps - Widget is not installed or activated. Please download it from <a href='https://downloads.wordpress.org/plugin/kalimah-apps-widgets.zip'>Kalimah Apps Widgets</a> and activate";
+        echo"<div class=\"$class\"> <p>$message</p></div>"; 
+}
+
+function buy_full_version() {
+	$class = "update-nag";
+	$message = "Buy Kalimah Weather (full version) from <a href='http://kalimah-apps.diy-cms.com/?product=kalimah-weather'>Kalimah Apps</a>";
         echo"<div class=\"$class\"> <p>$message</p></div>"; 
 }
 
