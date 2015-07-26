@@ -10,7 +10,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Display weather widget in beautiful way
 
 == Description ==
-This plguin requires Kalimah Apps - Widgets to work.
+This plguin requires Kalimah Apps - Widgets to work. Currently it is not available on WordPress.org. Please donwload it from this link:
+
+[Kalimah Widgets](http://kalimah-apps.diy-cms.com/wp-content/uploads/2015/07/KalimahWidgets.zip "Kalimah Widgets")
+
+
 
 This widget allows you to easily add super clean weather widget to your site. Create a weather, select your city, choose the options and customize the look in a few clicks. The weather data is provided for free by http://openweathermap.org
 
