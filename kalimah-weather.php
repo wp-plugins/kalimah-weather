@@ -514,7 +514,7 @@ if ( !is_plugin_active( 'KalimahWidgets/kalimahwidgets.php' ) ) {
 
 function my_admin_error_notice() {
 	$class = "error";
-	$message = "Kalimah Apps - Widget is not installed or activated. Please download it from <a href='https://downloads.wordpress.org/plugin/kalimah-apps-widgets.zip'>Kalimah Apps Widgets</a> and activate";
+	$message = "Kalimah Apps - Widget is not installed or activated. Please download it from <a href='http://kalimah-apps.diy-cms.com/wp-content/uploads/2015/07/KalimahWidgets.zip'>Kalimah Apps Widgets</a> and activate";
         echo"<div class=\"$class\"> <p>$message</p></div>"; 
 }
 
