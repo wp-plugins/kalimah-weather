@@ -3,7 +3,7 @@ Contributors: khr2003
 Tags: weather,kalimah,widget
 Requires at least: 3.0
 Tested up to: 4.2
-Stable tag: 1.0.1 
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,7 +12,7 @@ Display weather widget in beautiful way
 == Description ==
 This plguin requires Kalimah Apps - Widgets to work. Currently it is not available on WordPress.org. Please donwload it from this link:
 
-[Kalimah Widgets](http://kalimah-apps.diy-cms.com/wp-content/uploads/2015/07/KalimahWidgets.zip "Kalimah Widgets")
+[Kalimah Widgets](https://wordpress.org/plugins/kalimah-apps-widgets/ "Kalimah Widgets")
 
 
 
